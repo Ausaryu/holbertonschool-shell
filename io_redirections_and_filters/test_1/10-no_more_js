@@ -1,2 +1,0 @@
-#!/bin/bash
-find . -depth -type f -name "*.js" -exec rm -i {} +
